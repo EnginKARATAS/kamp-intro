@@ -5,7 +5,7 @@ import java.util.Iterator;
 public class Main {
 
 	public static void main(String[] args) {
-		String msg = "Ýnternet þubeye gir";
+		String msg = "ï¿½nternet ï¿½ubeye gir";
 		double dolarDun = 8.6;
 		double dolarBugun = 8.6;
 		int vade = 36;
@@ -17,17 +17,17 @@ public class Main {
 			System.out.println("dolar yukseldi");
 		}
 		else {
-			System.out.println("deðerler eþit");
+			System.out.println("deï¿½erler eï¿½it");
 		}
 		System.out.println("-----------");
 		 
  		String[] krediler = {
 				"konut kredisi", 
-				"yatýrým kredisi",
+				"yatï¿½rï¿½m kredisi",
 				"ciic 	 i kredisi",
 				"msb kredi",
-				"meg kredi",
-				"kültür bakanlýðý kredisi"
+				"meg  k redi",
+				"kï¿½ltï¿½r bakanlï¿½ï¿½ï¿½ kredisi"
 		};
  		for(String kredici :krediler) {
  			System.out.println(kredici);
