@@ -24,7 +24,7 @@ public class Main {
  		String[] krediler = {
 				"konut kredisi", 
 				"yatýrým kredisi",
-				"ciic i kredisi",
+				"ciic 	 i kredisi",
 				"msb kredi",
 				"meg kredi",
 				"kültür bakanlýðý kredisi"
